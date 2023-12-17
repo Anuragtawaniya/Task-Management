@@ -63,6 +63,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+![task-1](https://github.com/Anuragtawaniya/Task-Management/assets/53399643/0fb71970-1872-43a9-a126-2c6d01c2ad09)
+![task-2](https://github.com/Anuragtawaniya/Task-Management/assets/53399643/9659464a-114b-4e6f-a867-db5f09c2a713)
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
